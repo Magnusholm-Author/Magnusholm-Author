@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<link rel="me" href="https://mastodon.social/@rmagnusholm" />
 <!--
 **Magnusholm-Author/Magnusholm-Author** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
